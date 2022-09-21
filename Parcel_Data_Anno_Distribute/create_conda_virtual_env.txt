@@ -1,0 +1,7 @@
+#####################################################################
+run the following commands in Anaconda Prompt with Windows OS
+#####################################################################
+conda create -n eiseg python=3.8 -y
+conda activate eiseg
+pip install paddlepaddle
+pip install eiseg
